@@ -8,7 +8,7 @@ Python
 
 > PT-BR
 
-(https://osantana.me/curso-de-python-e-django/ "Curso de Python e Django | Osvaldo Santana")
+[Curso de Python e Django | Osvaldo Santana](https://osantana.me/curso-de-python-e-django/)
 
 **Introdução a programação com PHP e Python | Codesquad** - http://code-squad.com/curso/logica-programacao/avulso
 
