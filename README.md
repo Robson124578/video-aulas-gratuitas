@@ -3,6 +3,69 @@ Video aulas gratuitas
 
 Vídeo aulas gratuitas atualizadas de diversas linguagens
 
+Ruby
+====
+
+>PT-BR
+
+**[Vídeo-palestras do Guru-SP(Grupo de usuários Ruby)](https://www.youtube.com/user/GuruSPtalks/videos)**
+
+**[Abril Pro Ruby](https://www.youtube.com/playlist?list=PLM2OMbGXLeu9XOT3rG-fujjetYLnRAp9b)**
+
+**[Rubyconf 2014](https://www.youtube.com/watch?v=phT5ogtA1QU&list=PLiWHHufbVh1hFSXvuS0lVCFhk8bAEs6zL&index=2)**
+
+> EN
+
+**[RailsCasts | a compilation of many screencasts about rails by @rbates](http://railscasts.com)**
+
+**[Gorails | similar to RailsCasts but with new content](https://gorails.com/)**
+
+Vim
+===
+
+> EN
+
+**[VimCasts | A compilation of many screencasts about Vim editor](http://vimcasts.org/)**
+
+Devinsampa 2012
+===============
+
+**[Devinsampa](https://www.youtube.com/playlist?list=PLM2OMbGXLeu8m9WlvRewdY6JX89nKwjJO)**
+
+Rupy 2012
+=========
+
+**[Rupy](https://www.youtube.com/playlist?list=PLM2OMbGXLeu8kbOJ06s8sklBBJ2nis-jF)**
+
+Webday 2013
+===========
+
+**[Webday 2013](https://www.youtube.com/playlist?list=PLM2OMbGXLeu_3f1XJcl52P_UsP5BAjQBx)**
+
+Frontinsampa 2012 e 2013
+
+**[Frontinsampa](https://www.youtube.com/playlist?list=PLM2OMbGXLeu-Mp7f-Ot8jNTvXSLbN2G3s)**
+
+Agiletrends 2013
+================
+
+**[Agiletrends](https://www.youtube.com/playlist?list=PLM2OMbGXLeu8kcEcB3P455BkuRjG6X8OA)**
+
+Devfest São Paulo 2013
+======================
+
+**[Devfest](https://www.youtube.com/playlist?list=PLM2OMbGXLeu_KylW5Lky3dzdVYMiV3BaZ)**
+
+BrasilJS
+========
+
+**[BrasilJS](https://www.youtube.com/user/BrazilJS/videos)**
+
+InfoQ vídeos
+============
+
+**[Infoq Vídeos](http://www.infoq.com/br/presentations)**
+
 Python
 ======
 
@@ -74,7 +137,7 @@ Mutirão Pycursos
 
 **[Deploy completo de uma aplicação Django | Allisson Azevedo](https://www.youtube.com/watch?v=n2uoF61ro70)**
 
-**[Introdução ao VPython - construindo objetos 3D | Samuel Texeira](https://www.youtube.com/watch?v=m-1DvF3Mr3s)
+**[Introdução ao VPython - construindo objetos 3D | Samuel Texeira](https://www.youtube.com/watch?v=m-1DvF3Mr3s)**
 
 **[Introdução Banco de Dados com Sqlite3 e Python | Cássio Botaro](https://www.youtube.com/watch?v=QvEkjS16vFc&list=UUfBg2HySVyMEo6CSuxwMIsA)**
 
@@ -138,22 +201,3 @@ Tutoriais mão na massa
 **[Install Django and Python on Windows 1 of 7 -- Install Python & Pip on Windows](http://www.youtube.com/watch?v=QhevHKBy7Hc&list=UUWEHue8kksIaktO8KTTN_zg)**
 
 **[Discover Flask](https://github.com/realpython/discover-flask)**
-
-Ruby
-====
-
-> EN
-
-**[RailsCasts | a compilation of many screencasts about rails by @rbates](http://railscasts.com)**
-
-**[Gorails | similar to RailsCasts but with new content](https://gorails.com/)**
-
-Vim
-===
-
-> EN
-
-**[VimCasts | A compilation of many screencasts about Vim editor](http://vimcasts.org/)**
-
-
-
