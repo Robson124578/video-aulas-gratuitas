@@ -243,7 +243,9 @@ neste podcast sobre Erlang é comentado também sobre a linguagem Elixir.
 
 **[C# 5 e programação assíncrona – Parte 1 de 4](http://www.grokpodcast.com/2013/05/29/episodio-91-microsoft/)**
 
-**[C#, Roslyn e novas linguagens – Parte 3 de 4(http://www.grokpodcast.com/2013/07/03/episodio-93-csharp-typescript/)**
+**[C#, Roslyn e novas linguagens – Parte 2 de 4](http://www.grokpodcast.com/2013/06/12/episodio-92-csharp-typescript/)**
+
+**[C#, Roslyn e novas linguagens – Parte 3 de 4](http://www.grokpodcast.com/2013/07/03/episodio-93-csharp-typescript/)**
 
 **[Novidades do ecosistema Microsoft – Parte 4 de 4](http://www.grokpodcast.com/2013/07/09/episodio-94-csharp-typescript/)**
 
@@ -256,8 +258,6 @@ neste podcast sobre Erlang é comentado também sobre a linguagem Elixir.
 **[Onde usar #golang – Parte 4 de 5](http://www.grokpodcast.com/2013/08/09/episodio-98-golang/)**
 
 **[Benefícios e como aprender #golang – Parte 5 de 5](http://www.grokpodcast.com/2013/08/29/episodio-99-golang/)**
-
-**[C# 5 e programação assíncrona – Parte 4 de 4](http://www.grokpodcast.com/2013/05/29/episodio-91-microsoft/)**
 
 
 
