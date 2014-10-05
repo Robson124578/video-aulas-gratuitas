@@ -82,6 +82,7 @@ Python
 
 **[Python e Google App Engine | Renzo Nuccitelli](https://www.youtube.com/watch?v=9ptewqAEjNc&list=UUGjx62365UJ8XTWU_5GZC-g)**
 
+**[Curso de Python | eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)**
 
 Mutirão Pycursos
 ----------------
@@ -202,3 +203,10 @@ Tutoriais mão na massa
 **[Install Django and Python on Windows 1 of 7 -- Install Python & Pip on Windows](http://www.youtube.com/watch?v=QhevHKBy7Hc&list=UUWEHue8kksIaktO8KTTN_zg)**
 
 **[Discover Flask](https://github.com/realpython/discover-flask)**
+
+PHP
+----------------------
+
+> PT-BR
+
+**[Curso de PHP | eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)**
