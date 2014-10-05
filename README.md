@@ -202,3 +202,64 @@ Tutoriais mão na massa
 **[Install Django and Python on Windows 1 of 7 -- Install Python & Pip on Windows](http://www.youtube.com/watch?v=QhevHKBy7Hc&list=UUWEHue8kksIaktO8KTTN_zg)**
 
 **[Discover Flask](https://github.com/realpython/discover-flask)**
+
+Podcast
+-------
+
+**[Grok Podcast: A linguagem Python – Parte 1] (http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
+
+**[Grok Podcast: A linguagem Python – Parte 2] (http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
+
+**[Grok Podcast: Node.js - Parte 1](http://www.grokpodcast.com/2011/02/17/episodio-19-node-js-parte-1/)**
+
+**[Grok Podcast: Node.js - Parte 2](http://www.grokpodcast.com/2011/02/24/episodio-20-node-js-parte-2/)**
+
+**[Grok Podcast: Node.js - Parte 3](http://www.grokpodcast.com/2011/03/03/episodio-21-node-js-parte-3/)**
+
+**[Grok Podcast: Erlang - Parte 1 de 3](http://www.grokpodcast.com/2011/07/21/episodio-39-erlang-parte-1-de-3/)**
+
+**[Grok Podcast: Erlang - Parte 2 de 3](http://www.grokpodcast.com/2011/07/21/episodio-40-erlang-parte-2-de-3/)**
+
+**[Grok Podcast: Erlang - Parte 3 de 3](http://www.grokpodcast.com/2011/07/21/episodio-41-erlang-parte-3-de-3/)**
+neste podcast sobre Erlang é comentado também sobre a linguagem Elixir. 
+
+**[Grok Podcast: PHP: Hypertext Preprocessor – Parte 1 de 3](http://www.grokpodcast.com/2011/11/10/episodio-51-php-hypertext-preprocessor-parte-1-de-3/)**
+
+**[Grok Podcast: PHP: Hypertext Preprocessor – Parte 2 de 3](http://www.grokpodcast.com/2011/11/17/episodio-52-php-hypertext-preprocessor-parte-2-de-3/)**
+
+**[Grok Podcast: PHP: Hypertext Preprocessor – Parte 3 de 3](http://www.grokpodcast.com/2011/12/01/episodio-53-php-hypertext-preprocessor-parte-3-de-3/)**
+
+**[A linguagem Lua – Parte 1 de 3](http://www.grokpodcast.com/2012/04/13/episodio-67-a-linguagem-lua-parte-1-de-3/)**
+
+**[A linguagem Lua – Parte 2 de 3](http://www.grokpodcast.com/2012/04/19/episodio-68-a-linguagem-lua-parte-2-de-3/)**
+
+**[A linguagem Lua – Parte 3 de 3](http://www.grokpodcast.com/2012/05/11/episodio-69-a-linguagem-lua-parte-3-de-3/)**
+
+**[A linguagem Scala – Parte 1 de 3](http://www.grokpodcast.com/2012/09/18/episodio-77-a-linguagem-scala-parte-1-de-3/)**
+
+**[A linguagem Scala – Parte 2 de 3](http://www.grokpodcast.com/2012/09/25/episodio-78-a-linguagem-scala-parte-2-de-3/)**
+
+**[A linguagem Scala – Parte 3 de 3](http://www.grokpodcast.com/2012/10/16/episodio-79-a-linguagem-scala-parte-3-de-3/)**
+
+**[C# 5 e programação assíncrona – Parte 1 de 4](http://www.grokpodcast.com/2013/05/29/episodio-91-microsoft/)**
+
+**[C#, Roslyn e novas linguagens – Parte 3 de 4(http://www.grokpodcast.com/2013/07/03/episodio-93-csharp-typescript/)**
+
+**[Novidades do ecosistema Microsoft – Parte 4 de 4](http://www.grokpodcast.com/2013/07/09/episodio-94-csharp-typescript/)**
+
+**[Linguagem Go: Da onde saiu a #golang? – Parte 1 de 5](http://www.grokpodcast.com/2013/07/17/episodio-95-golang/)**
+
+**[Multicore e pacotes em #golang – Parte 2 de 5](http://www.grokpodcast.com/2013/07/24/episodio-96-golang/)**
+
+**[Pensando em Golang – Parte 3 de 5](http://www.grokpodcast.com/2013/08/01/episodio-97-golang/)**
+
+**[Onde usar #golang – Parte 4 de 5](http://www.grokpodcast.com/2013/08/09/episodio-98-golang/)**
+
+**[Benefícios e como aprender #golang – Parte 5 de 5](http://www.grokpodcast.com/2013/08/29/episodio-99-golang/)**
+
+**[C# 5 e programação assíncrona – Parte 4 de 4](http://www.grokpodcast.com/2013/05/29/episodio-91-microsoft/)**
+
+
+
+
+
