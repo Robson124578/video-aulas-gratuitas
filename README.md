@@ -80,7 +80,7 @@ Python
 
 **[Python para Zumbis | Pycursos](http://www.youtube.com/channel/UCripRddD4BnaMcU833ExuwA)**
 
-**[Python e Google App Engine | Renzo Nuccitelli](https://www.youtube.com/watch?v=9ptewqAEjNc&list=UUGjx62365UJ8XTWU_5GZC-g)**
+**[Python e Google App Engine | Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYRGIeBxag8uT-3ftcMVT5oF)**
 
 **[Curso de Python | eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)**
 
