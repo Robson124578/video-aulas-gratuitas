@@ -214,9 +214,9 @@ PHP
 Podcast
 -------
 
-**[Grok Podcast: A linguagem Python – Parte 1] (http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
+**[Grok Podcast: A linguagem Python – Parte 1](http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
 
-**[Grok Podcast: A linguagem Python – Parte 2] (http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
+**[Grok Podcast: A linguagem Python – Parte 2](http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
 
 **[Grok Podcast: Node.js - Parte 1](http://www.grokpodcast.com/2011/02/17/episodio-19-node-js-parte-1/)**
 
@@ -229,7 +229,7 @@ Podcast
 **[Grok Podcast: Erlang - Parte 2 de 3](http://www.grokpodcast.com/2011/07/21/episodio-40-erlang-parte-2-de-3/)**
 
 **[Grok Podcast: Erlang - Parte 3 de 3](http://www.grokpodcast.com/2011/07/21/episodio-41-erlang-parte-3-de-3/)**
-neste podcast sobre Erlang é comentado também sobre a linguagem Elixir. 
+neste podcast sobre Erlang é comentado também sobre a linguagem Elixir.
 
 **[Grok Podcast: PHP: Hypertext Preprocessor – Parte 1 de 3](http://www.grokpodcast.com/2011/11/10/episodio-51-php-hypertext-preprocessor-parte-1-de-3/)**
 
@@ -266,3 +266,28 @@ neste podcast sobre Erlang é comentado também sobre a linguagem Elixir.
 **[Onde usar #golang – Parte 4 de 5](http://www.grokpodcast.com/2013/08/09/episodio-98-golang/)**
 
 **[Benefícios e como aprender #golang – Parte 5 de 5](http://www.grokpodcast.com/2013/08/29/episodio-99-golang/)**
+
+**[Castálio Podcast - Luciano Ramalho (Python)](http://www.castalio.info/luciano-ramalho-oficinas-turing/)**
+
+**[Castálio Podcast - Henrique Bastos (Python)](http://www.castalio.info/henrique-bastos-welcome-to-the-django/)**
+
+**[Castálio Podcast - Marcelo Hashimoto (Python/Polly)](http://www.castalio.info/marcelo-hashimoto-polly-twitter-client/)**
+
+> Hack 'n' Cast
+
+**[Hack 'n' Cast - Cultura Hacker](http://mindbending.org/pt/hack-n-cast-v01-cultura-hacker)**
+
+**[Hack 'n' Cast - HTML & CSS](http://mindbending.org/pt/hack-n-cast-v02-html-css)**
+
+**[Hack 'n' Cast - Introdução ao GNU/Linux](http://mindbending.org/pt/hack-n-cast-v03-introducao-ao-gnulinux)**
+
+**[Hack 'n' Cast - Introdução a programação](http://mindbending.org/pt/hack-n-cast-v04-introducao-a-programacao)**
+
+**[Hack 'n' Cast - Por que usar GNU/Linux](http://mindbending.org/pt/hack-n-cast-v05-por-que-usar-gnulinux)**
+
+> Curto Circuito Podcast
+
+**[Maratona de programação](http://www.curtocircuito.cc/maratona-de-programacao/)**
+
+**[Aprendizagem e programação](http://www.curtocircuito.cc/aprendizagem-e-programacao/)**
+
