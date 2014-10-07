@@ -6,7 +6,7 @@ Vídeo aulas gratuitas atualizadas de diversas linguagens
 Ruby
 ====
 
->PT-BR
+> PT-BR
 
 **[Vídeo-palestras do Guru-SP(Grupo de usuários Ruby)](https://www.youtube.com/user/GuruSPtalks/videos)**
 
@@ -19,6 +19,10 @@ Ruby
 **[RailsCasts | a compilation of many screencasts about rails by @rbates](http://railscasts.com)**
 
 **[Gorails | similar to RailsCasts but with new content](https://gorails.com/)**
+
+**[Ruby Videos, Tutorials and Screencasts | ShowMeDo](http://showmedo.com/videotutorials/ruby)**
+
+**[Ruby Tapas | Free Screencasts](http://www.rubytapas.com/episodes?filter=free)**
 
 Vim
 ===
@@ -83,6 +87,14 @@ Python
 **[Python e Google App Engine | Renzo Nuccitelli](https://www.youtube.com/playlist?list=PLA05yVJtRWYRGIeBxag8uT-3ftcMVT5oF)**
 
 **[Curso de Python | eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj)**
+
+> EN
+
+**[ShowMeDo - Python Videos, Tutorials and Screencasts](http://showmedo.com/videotutorials/python)**
+
+**[Diving into Django](http://code.tutsplus.com/articles/diving-into-django--net-2969)**
+
+**[Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx)**
 
 Mutirão Pycursos
 ----------------
@@ -205,14 +217,36 @@ Tutoriais mão na massa
 **[Discover Flask](https://github.com/realpython/discover-flask)**
 
 PHP
-----------------------
+===
 
 > PT-BR
 
 **[Curso de PHP | eXcript](https://www.youtube.com/playlist?list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd)**
 
+**[Curso de PHP para Iniciantes | Cursos Em Vídeo](http://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)**
+
+HTML & CSS
+==========
+
+> PT-BR
+
+**[Curso de HTML5 Completo | Cursos Em Vídeo](http://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o)**
+
+Javascript
+==========
+
+> EN
+
+**[ShowMeDo - Javascript Screencasts](http://showmedo.com/videotutorials/javascript)**
+
+**[Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)**
+
+**[Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)**
+
 Podcast
--------
+=======
+
+> PT-BR
 
 **[Grok Podcast: A linguagem Python – Parte 1](http://www.grokpodcast.com/2010/10/20/episodio-6-a-linguagem-python-parte-1/)**
 
@@ -291,3 +325,18 @@ neste podcast sobre Erlang é comentado também sobre a linguagem Elixir.
 
 **[Aprendizagem e programação](http://www.curtocircuito.cc/aprendizagem-e-programacao/)**
 
+> Tecnoretórica
+
+**[NodeJS com Victor Hugo Germano | Tecnoretórica](http://www.tecnoretorica.com.br/2013/08/nodejs-1/)**
+
+> EN
+
+**[The Ruby Show](http://rubyshow.com/)**
+
+**[5by5 - Ruby on Rails Podcast](http://5by5.tv/rubyonrails)**
+
+**[Ruby Rogues](http://rubyrogues.com/)**
+
+**[JavaScript Jabber](http://javascriptjabber.com/)**
+
+**[The Javascript Show](http://javascriptshow.com/)**
