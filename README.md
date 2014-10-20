@@ -96,6 +96,8 @@ Python
 
 **[Try Django Tutorial](http://youtu.be/3DccH9AMwFQ?list=PLEsfXFp6DpzRgedo9IzmcpXYoSeDg29Tx)**
 
+**[Web2py video course](http://vimeo.com/album/3016728)**
+
 Mutirão Pycursos
 ----------------
 
