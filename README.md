@@ -183,7 +183,7 @@ Mutirão Pycursos
 
 **[O que Python pode fazer e você não sabia | Eric Hideki](https://www.youtube.com/watch?v=tsMVtFQ4i1Y&list=UUSjCcmlNS5kPXrRGI1SKH5w)**
 
-**[Games com CodeSkulptor | Marcos Castro](https://www.youtube.com/watch?v=DOywoP2g7Bs)**
+**[Games com CodeSkulptor | Marcos Castro](https://www.youtube.com/watch?v=ryPmokQ2Spo)**
 
 Entrevistas comunidade Python
 -----------------------------
