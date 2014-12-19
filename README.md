@@ -247,6 +247,13 @@ Javascript
 
 **[Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)**
 
+Haskell
+==========
+
+> PT-BR
+
+**[Curso Haskell para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)**
+
 Podcast
 =======
 
