@@ -183,6 +183,8 @@ Mutirão Pycursos
 
 **[O que Python pode fazer e você não sabia | Eric Hideki](https://www.youtube.com/watch?v=tsMVtFQ4i1Y&list=UUSjCcmlNS5kPXrRGI1SKH5w)**
 
+**[Games com CodeSkulptor | Marcos Castro](https://www.youtube.com/watch?v=ryPmokQ2Spo)**
+
 Entrevistas comunidade Python
 -----------------------------
 
@@ -244,6 +246,20 @@ Javascript
 **[Free Quality Javascript video tutorials and screencasts](http://screencasts.org/topics/javascript)**
 
 **[Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)**
+
+Haskell
+==========
+
+> PT-BR
+
+**[Curso Haskell para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)**
+
+C++
+==========
+
+> PT-BR
+
+**[Curso C++ para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)**
 
 Podcast
 =======
