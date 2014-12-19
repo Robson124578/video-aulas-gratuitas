@@ -254,6 +254,13 @@ Haskell
 
 **[Curso Haskell para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)**
 
+C++
+==========
+
+> PT-BR
+
+**[Curso C++ para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)**
+
 Podcast
 =======
 
