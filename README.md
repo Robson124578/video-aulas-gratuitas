@@ -1,7 +1,7 @@
 Video aulas gratuitas
 =====================
 
-Vídeo aulas gratuitas atualizadas de diversas linguagens
+Vídeo aulas gratuitas atualizadas de diversas linguagens, tais como Python, PHP, Ruby, C++, Haskell, entre outras. O repositório é aberto a qualquer tipo de colaboração.
 
 Ruby
 ====
