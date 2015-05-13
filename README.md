@@ -251,6 +251,13 @@ Javascript
 
 **[Node Tuts - Node.JS Video Tutorials](http://nodetuts.com)**
 
+AngularJS
+=========
+
+> PT-BR
+
+**[AngularJS - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)**
+
 Haskell
 ==========
 
