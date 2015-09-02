@@ -261,6 +261,18 @@ C++
 
 **[Curso C++ para iniciantes | Marcos Castro](https://www.youtube.com/playlist?list=PL8eBmR3QtPL13Dkn5eEfmG9TmzPpTp0cV)**
 
+C#
+==========
+
+> PT-BR
+
+**[Curso de C# | exScript](https://www.youtube.com/playlist?list=PLesCEcYj003SFffgnOcITHnCJavMf0ArD)
+**[ASP.Net MVC na Prática | Cleyton Ferrari](https://www.youtube.com/playlist?list=PL8eBmR3QtPL3pDzQpwPYfWQ4NEPGu6j7z)
+
+> EN
+
+**[How to program in C# - Beginner Course | Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+
 Podcast
 =======
 
