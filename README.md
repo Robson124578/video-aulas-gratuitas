@@ -258,6 +258,8 @@ AngularJS
 
 **[AngularJS - Rodrigo Branas](https://www.youtube.com/playlist?list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb)**
 
+**[AngularJS para Zumbis](https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM)**
+
 Haskell
 ==========
 
