@@ -98,6 +98,8 @@ Python
 
 **[Web2py video course](http://vimeo.com/album/3016728)**
 
+**[Kivy with Python tutorial for Mobile Application Development](https://www.youtube.com/watch?v=CYNWK2GpwgA&list=PLQVvvaa0QuDe_l6XiJ40yGTEqIKugAdTy)**
+
 Mutirão Pycursos
 ----------------
 
